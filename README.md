@@ -1,4 +1,4 @@
-  # VITYARTHI - Student Record Management System
+# VITYARTHI - Student Record Management System
 
 A Python-based menu-driven console application designed to manage student academic records, calculate total scores, percentages, grades, and pass/fail statuses automatically.
 
